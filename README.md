@@ -10,4 +10,4 @@ Checkpoints those are set on a given route helps system for estimation of the ti
 This is a small scale project and has got a lot of future scope . 
 As a part of college project we have selected only 4 routes to reach the student location and college.With the help of the web parents can easily know the location 
 of their children.
-And the college management also know when the bus will arrives.
+And the college management also know when the bus will arrives
